@@ -1,0 +1,5 @@
+{
+  "name": "Wanderlust AI Planner",
+  "description": "A modern, AI-powered travel planner that helps you organize trips, manage destinations, and export itineraries. Features a mock MERN-like architecture with local persistence.",
+  "requestFramePermissions": []
+}
